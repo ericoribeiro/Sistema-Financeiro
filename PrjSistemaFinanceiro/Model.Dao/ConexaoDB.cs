@@ -1,6 +1,6 @@
 ﻿using System.Data.SqlClient;
 
-namespace Model.Entity
+namespace Model.Dao
 {
     class ConexaoDB
     {
