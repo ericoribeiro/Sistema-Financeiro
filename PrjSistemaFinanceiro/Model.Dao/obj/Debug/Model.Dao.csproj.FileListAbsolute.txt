@@ -1,6 +1,8 @@
-D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.exe.config
-D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.exe
-D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.pdb
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.csproj.CoreCompileInputs.cache
-D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.exe
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.dll
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.pdb
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\bin\Debug\Model.Entity.dll
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\bin\Debug\Model.Entity.pdb
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.dll
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.pdb

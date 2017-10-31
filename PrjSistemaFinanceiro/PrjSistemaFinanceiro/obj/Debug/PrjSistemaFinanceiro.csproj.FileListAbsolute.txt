@@ -1,5 +1,5 @@
-D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\obj\Debug\PrjSistemaFinanceiro.csprojResolveAssemblyReference.cache
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\obj\Debug\PrjSistemaFinanceiro.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\obj\Debug\PrjSistemaFinanceiro.csprojResolveAssemblyReference.cache
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\ApplicationInsights.config
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\PrjSistemaFinanceiro.dll.config
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\PrjSistemaFinanceiro.dll
@@ -14,7 +14,9 @@ D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bi
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Microsoft.ApplicationInsights.dll
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Microsoft.Web.Infrastructure.dll
-D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Model.Neg.exe
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Model.Dao.dll
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Model.Entity.dll
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Model.Neg.dll
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Newtonsoft.Json.dll
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\System.Web.Helpers.dll
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\System.Web.Mvc.dll
@@ -24,8 +26,9 @@ D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bi
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\System.Web.WebPages.dll
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\System.Web.WebPages.Razor.dll
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\WebGrease.dll
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Model.Dao.pdb
+D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Model.Entity.pdb
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Model.Neg.pdb
-D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Model.Neg.exe.config
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\System.Web.Helpers.xml
 D:\Meus Projetos\Sistema-Financeiro\PrjSistemaFinanceiro\PrjSistemaFinanceiro\bin\System.Web.Mvc.xml

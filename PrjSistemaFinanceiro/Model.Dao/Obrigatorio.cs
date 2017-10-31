@@ -10,6 +10,8 @@ namespace Model.Dao
     {
         void create(qualquerClasse obj);
 
+        void procedureCreate(qualquerClasse obj);
+
         void delete(qualquerClasse obj);
 
         void update(qualquerClasse obj);

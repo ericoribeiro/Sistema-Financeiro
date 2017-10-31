@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F0EDD1AF-C733-4FC4-9AEF-217E21BCB936}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{55273AAD-94B3-4853-89D4-C706163C4025}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Model.Dao</RootNamespace>
     <AssemblyName>Model.Dao</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -45,15 +43,11 @@
     <Compile Include="ClienteDao.cs" />
     <Compile Include="ConexaoDB.cs" />
     <Compile Include="Obrigatorio.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Model.Entity\Model.Entity.csproj">
-      <Project>{8f63b0fe-4e01-414f-8da6-d4d1d6656da9}</Project>
+      <Project>{c4da058f-b2b1-4ff3-a434-84ac9a83622a}</Project>
       <Name>Model.Entity</Name>
     </ProjectReference>
   </ItemGroup>
