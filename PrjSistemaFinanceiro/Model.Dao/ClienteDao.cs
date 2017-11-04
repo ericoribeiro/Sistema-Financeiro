@@ -146,7 +146,7 @@ namespace Model.Dao
 
         public void update(Cliente objCliente)
         {
-            string update = "UPDATE cliente SET nome ='" + objCliente.Nome + "', endereco ='"+ objCliente.Endereco +"', telefone = '" + objCliente.Telefone + "', cpf = '" + objCliente.Cpf + "'";
+            string update = "UPDATE cliente SET nome ='" + objCliente.Nome + "', endereco ='"+ objCliente.Endereco +"', telefone = '" + objCliente.Telefone + "', cpf = '" + objCliente.Cpf + "' WHERE idCliente = '" + objCliente.IdCliente + "'";
             try
             {
                 comando = new SqlCommand(update, objConexaoDB.getCon());
