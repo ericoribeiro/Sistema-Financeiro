@@ -252,8 +252,6 @@ namespace Model.Neg
             }
             //end validar telefone
 
-
-
             //se nao tem erro
             objCliente.Estado = 99;
             objClienteDao.update(objCliente);
