@@ -254,8 +254,6 @@
     <Content Include="Views\Cliente\Delete.cshtml" />
     <Content Include="Views\Cliente\Eliminar.cshtml" />
     <Content Include="Views\Cliente\Update.cshtml" />
-    <Content Include="Views\Cliente\BuscarClientes.cshtml" />
-    <Content Include="Views\Cliente\Find.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
