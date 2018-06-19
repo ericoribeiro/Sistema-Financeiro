@@ -33,7 +33,7 @@ namespace Model.Dao
         public List<Vendedor> findAll()
         {
             List<Vendedor> listVendedores = new List<Vendedor>();
-            string query = "@SELECT * FROM vendedor ORDER BY ASC";
+            string query = "SELECT * FROM vendedor ORDER BY nome ASC";
 
             try
             {
@@ -47,14 +47,13 @@ namespace Model.Dao
                     vendedor.IdVendedor = Convert.ToInt64(reader[0].ToString());
                     vendedor.Nome = reader[1].ToString();
                     vendedor.CPF = reader[2].ToString();
-                    vendedor.Telefone = reader.ToString();
+                    vendedor.Telefone = reader[3].ToString();
                     listVendedores.Add(vendedor);
                 }
             }
             catch (Exception ex)
             {
-                var mensagem = String.Format("Não foi possível listar os Vendedores");
-                throw new Exception(mensagem, ex);
+                throw new Exception(ex.Message);
             }
             finally
             {
